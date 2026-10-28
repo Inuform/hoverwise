@@ -4,7 +4,7 @@ Hover over a link to see exactly where it goes.
 
 Hoverwise is a free Chrome extension that shows a small preview card when you hover over a link: the page title, description and preview image, so you can decide whether it's worth opening. It's made for unknown links in stream chats, comments and forums.
 
-**[Get Hoverwise on the Chrome Web Store]([STORE_LINK](https://chromewebstore.google.com/detail/hoverwise/ghgacdofepamgflpnibpkmabckjhdlpf))**
+**[Get Hoverwise on the Chrome Web Store](https://chromewebstore.google.com/detail/hoverwise/ghgacdofepamgflpnibpkmabckjhdlpf)**
 
 ## What it shows
 
